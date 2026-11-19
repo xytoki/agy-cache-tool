@@ -1,0 +1,7 @@
+{
+  "name": "agy-cache-helper",
+  "displayName": "agy-cache-helper",
+  "version": "0.1.0",
+  "description": "Prompt cache keep-alive and tail-end warm compaction helper for Antigravity.",
+  "logo": "logo.svg"
+}

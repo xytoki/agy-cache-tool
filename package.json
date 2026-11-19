@@ -1,0 +1,10 @@
+{
+  "name": "agy-cache-helper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone Antigravity plugin for prompt cache keep-alive and tail-end warm compaction.",
+  "scripts": {
+    "test": "node --test \"test/*.test.mjs\""
+  }
+}
